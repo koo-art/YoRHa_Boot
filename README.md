@@ -1,6 +1,8 @@
 # YoRHa_Boot
 KDE Plasma splash screen and grub background with YoRHa boot sequence from Nier Automata
 
+Grub background resolution 1920x1080
+
 ---
 
 ![YoRHa_Boot](./org.1-3-3-7.YoRHa_Boot.splash/contents/previews/splash.png)
